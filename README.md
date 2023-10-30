@@ -1,5 +1,5 @@
 # oneAPI Hackathon 23
-oneAPI Hackathon: The LLM Challenge
+oneAPI Hackathon: The LLM Challenge   
 The corresponding blog post for introduction and walkthrough can be found [here](https://medium.com/@abhinababala04/the-oneapi-hackathon-e6fdd3ac07db). 
 
 <!-- *** -->
