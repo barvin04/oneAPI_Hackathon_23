@@ -1,5 +1,7 @@
 # oneAPI Hackathon 23
 oneAPI Hackathon: The LLM Challenge
+The corresponding blog post for introduction and walkthrough can be found [here](https://medium.com/@abhinababala04/the-oneapi-hackathon-e6fdd3ac07db). 
+
 <!-- *** -->
 # Introduction
 
@@ -18,10 +20,9 @@ T5 is an encoder-decoder model. It converts all NLP problems like language trans
 <!-- # Sample results -->
 
 # Misc. 
-## Important Links
+<!-- ## Important Links -->
 
-## Blog Post
 
-## About Intel IDC
+<!-- ## About Intel IDC -->
 
-## Key Learnings and Insights
+<!-- ## Key Learnings and Insights -->
