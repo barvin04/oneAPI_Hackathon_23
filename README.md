@@ -2,7 +2,8 @@
 ![Alt Text](assets/oneapi.png)
 
 oneAPI Hackathon: The LLM Challenge   
-The corresponding blog post for introduction and walkthrough can be found [here](https://medium.com/@abhinababala04/the-oneapi-hackathon-e6fdd3ac07db). 
+The corresponding blog post for introduction and walkthrough can be found [here](https://medium.com/@abhinababala04/the-oneapi-hackathon-e6fdd3ac07db).   
+[Video](https://drive.google.com/file/d/1M2T_LC9bIfmA_qbacZ47UGZCoa2hnfbu/view?usp=sharing) walkthrough.  
 
 <!-- *** -->
 # Introduction
