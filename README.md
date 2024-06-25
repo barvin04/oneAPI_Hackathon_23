@@ -29,3 +29,6 @@ T5 is an encoder-decoder model. It converts all NLP problems like language trans
 <!-- ## About Intel IDC -->
 
 <!-- ## Key Learnings and Insights -->
+
+## Linkedin winner announcement
+Link : https://www.linkedin.com/posts/machine-hack_llmchallenge-languagemodeladvancements-activity-7130891279248326656-d3TT/ 
